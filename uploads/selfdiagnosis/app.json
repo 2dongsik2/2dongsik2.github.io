@@ -1,8 +1,26 @@
 [
     {
-        "cdcUrl": "",
-        "orgCode": "",
-        "name": "",
-        "birth": ""
+      "cdcUrl": "goehcs.eduro.go.kr",
+      "orgCode": "J100002423",
+      "name": "박금혁",
+      "birth": "051203"
+    },
+    {
+      "cdcUrl": "goehcs.eduro.go.kr",
+      "orgCode": "J100002423",
+      "name": "조원일",
+      "birth": "050308"
+    },
+    {
+      "cdcUrl": "goehcs.eduro.go.kr",
+      "orgCode": "J100002423",
+      "name": "이준빈",
+      "birth": "050604"
+    },
+    {
+      "cdcUrl": "goehcs.eduro.go.kr",
+      "orgCode": "J100002423",
+      "name": "박서용",
+      "birth": "050910"
     }
-]
+  ]
